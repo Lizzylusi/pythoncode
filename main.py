@@ -1,4 +1,4 @@
-print("Hello World")
+print("Hello")
 print("python is installed")
 print('Eli doesn\'t have data right now, so she is back here')
 print('she said "Don\'t do that"')
